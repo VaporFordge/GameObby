@@ -1,2 +1,2 @@
 # GameObby
-It's a minigame obby
+Upload all this in the phyton and start the game
